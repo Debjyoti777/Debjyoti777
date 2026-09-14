@@ -197,13 +197,84 @@ which after all, are the only kind of programs there are.”
 
 ---
 
-## 🔝 Top Contributed Repo
+---
 
-<div align="center">
+## 📚 Popular Repositories
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Debjyoti777&limit=5&theme=radical&combine_all_yearly_contributions=true" width="850"/>
+<table>
+<tr>
 
-</div>
+<td width="50%">
+
+### 📰 [News-Portal-1](https://github.com/Debjyoti777/News-Portal-1)
+
+A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.
+
+🟡 **JavaScript**
+
+</td>
+
+<td width="50%">
+
+### 📰 [News-Portal-2](https://github.com/Debjyoti777/News-Portal-2)
+
+Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.
+
+🟡 **JavaScript**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💰 [expense-tracker](https://github.com/Debjyoti777/expense-tracker)
+
+Personal expense tracker web app with Supabase backend, category filtering, and real-time data.
+
+🟡 **JavaScript**
+
+</td>
+
+<td width="50%">
+
+### 📱 [expense-tracker-android](https://github.com/Debjyoti777/expense-tracker-android)
+
+Android version of the expense tracker application.
+
+🟤 **Java**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 👨‍💻 [Waish228](https://github.com/Debjyoti777/Waish228)
+
+Personal GitHub profile and development work.
+
+🔵 **GitHub**
+
+</td>
+
+<td width="50%">
+
+### 🎬 [yt-dlp](https://github.com/Debjyoti777/yt-dlp)
+
+A feature-rich command-line audio/video downloader.
+
+🔵 **Python**
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
