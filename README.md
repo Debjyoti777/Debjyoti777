@@ -153,15 +153,15 @@ Techno International New Town, Kolkata
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
 ## 💬 Random Dev Quote
+
+<div align="center">
 
 <table>
 <tr>
 <td>
 
-> *“Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.”*
+> *“Reliable computations are obtainable from buggy programs, <br> which after all, are the only kind of programs there are.”*
 >
 > <div align="right">— Daniel T. Barry</div>
 
