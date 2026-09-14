@@ -199,28 +199,42 @@ which after all, are the only kind of programs there are.”
 
 ---
 
-## 📚 Popular Repositories
+---
+
+## Popular repositories
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📰 [News-Portal-1](https://github.com/Debjyoti777/News-Portal-1)
+<a href="https://github.com/Debjyoti777/News-Portal-1">
+<strong>News-Portal-1</strong>
+</a>
+
+<br><br>
 
 A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.
 
-🟡 **JavaScript**
+<br><br>
+
+🟡 JavaScript
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📰 [News-Portal-2](https://github.com/Debjyoti777/News-Portal-2)
+<a href="https://github.com/Debjyoti777/News-Portal-2">
+<strong>News-Portal-2</strong>
+</a>
+
+<br><br>
 
 Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.
 
-🟡 **JavaScript**
+<br><br>
+
+🟡 JavaScript
 
 </td>
 
@@ -228,23 +242,35 @@ Improved version of the school news portal — refined layout, better JavaScript
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💰 [expense-tracker](https://github.com/Debjyoti777/expense-tracker)
+<a href="https://github.com/Debjyoti777/expense-tracker">
+<strong>expense-tracker</strong>
+</a>
+
+<br><br>
 
 Personal expense tracker web app with Supabase backend, category filtering, and real-time data.
 
-🟡 **JavaScript**
+<br><br>
+
+🟡 JavaScript
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📱 [expense-tracker-android](https://github.com/Debjyoti777/expense-tracker-android)
+<a href="https://github.com/Debjyoti777/expense-tracker-android">
+<strong>expense-tracker-android</strong>
+</a>
+
+<br><br>
 
 Android version of the expense tracker application.
 
-🟤 **Java**
+<br><br>
+
+🟤 Java
 
 </td>
 
@@ -252,34 +278,39 @@ Android version of the expense tracker application.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👨‍💻 [Waish228](https://github.com/Debjyoti777/Waish228)
+<a href="https://github.com/Debjyoti777/Waish228">
+<strong>Waish228</strong>
+</a>
+
+<br><br>
 
 Personal GitHub profile and development work.
 
-🔵 **GitHub**
+<br><br>
+
+🔵 GitHub
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎬 [yt-dlp](https://github.com/Debjyoti777/yt-dlp)
+<a href="https://github.com/Debjyoti777/yt-dlp">
+<strong>yt-dlp</strong>
+</a>
+
+<br><br>
 
 A feature-rich command-line audio/video downloader.
 
-🔵 **Python**
+<br><br>
+
+🔵 Python
 
 </td>
 
 </tr>
-
 </table>
 
 ---
-
-<div align="right">
-
-<img src="https://komarev.com/ghpvc/?username=Debjyoti777&label=Profile%20views&color=FF4FA3&style=flat" />
-
-</div>
