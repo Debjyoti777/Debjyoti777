@@ -201,116 +201,114 @@ which after all, are the only kind of programs there are.”
 
 ---
 
-## Popular repositories
+## 📂 Popular repositories
 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/News-Portal-1">
-<strong>News-Portal-1</strong>
-</a>
-
-<br><br>
+### [News-Portal-1](https://github.com/Debjyoti777/News-Portal-1)
 
 A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.
 
-<br><br>
-
 🟡 JavaScript
 
 </td>
+</tr>
+</table>
+</td>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/News-Portal-2">
-<strong>News-Portal-2</strong>
-</a>
-
-<br><br>
+### [News-Portal-2](https://github.com/Debjyoti777/News-Portal-2)
 
 Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.
 
-<br><br>
-
 🟡 JavaScript
 
+</td>
+</tr>
+</table>
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/expense-tracker">
-<strong>expense-tracker</strong>
-</a>
-
-<br><br>
+### [expense-tracker](https://github.com/Debjyoti777/expense-tracker)
 
 Personal expense tracker web app with Supabase backend, category filtering, and real-time data.
 
-<br><br>
-
 🟡 JavaScript
 
 </td>
+</tr>
+</table>
+</td>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/expense-tracker-android">
-<strong>expense-tracker-android</strong>
-</a>
-
-<br><br>
+### [expense-tracker-android](https://github.com/Debjyoti777/expense-tracker-android)
 
 Android version of the expense tracker application.
 
-<br><br>
+🟠 Java
 
-🟤 Java
-
+</td>
+</tr>
+</table>
 </td>
 
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/Waish228">
-<strong>Waish228</strong>
-</a>
-
-<br><br>
+### [Waish228](https://github.com/Waish228/Waish228)
 
 Personal GitHub profile and development work.
-
-<br><br>
 
 🔵 GitHub
 
 </td>
+</tr>
+</table>
+</td>
 
-<td width="50%" valign="top">
+<td width="50%">
+<table>
+<tr>
+<td>
 
-<a href="https://github.com/Debjyoti777/yt-dlp">
-<strong>yt-dlp</strong>
-</a>
-
-<br><br>
+### [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 A feature-rich command-line audio/video downloader.
-
-<br><br>
 
 🔵 Python
 
 </td>
+</tr>
+</table>
+</td>
 
 </tr>
 </table>
-
----
