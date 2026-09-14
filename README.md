@@ -199,162 +199,34 @@ which after all, are the only kind of programs there are.”
 
 ## 📁 Popular repositories
 
-<table width="100%" cellspacing="12" cellpadding="0">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
+<div align="center">
 
 <a href="https://github.com/Debjyoti777/News-Portal-1">
-<b>News-Portal-1</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=News-Portal-1&theme=dark" width="48%">
 </a>
-
-<br><br>
-
-A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.
-
-<br><br>
-
-🟡 JavaScript
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
 
 <a href="https://github.com/Debjyoti777/News-Portal-2">
-<b>News-Portal-2</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=News-Portal-2&theme=dark" width="48%">
 </a>
 
-<br><br>
-
-Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.
-
-<br><br>
-
-🟡 JavaScript
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
+<br>
 
 <a href="https://github.com/Debjyoti777/expense-tracker">
-<b>expense-tracker</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=expense-tracker&theme=dark" width="48%">
 </a>
-
-<br><br>
-
-Personal expense tracker web app with Supabase backend, category filtering, and real-time data — live at MySpendTracker.
-
-<br><br>
-
-🟡 JavaScript
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
 
 <a href="https://github.com/Debjyoti777/expense-tracker-android">
-<b>expense-tracker-android</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=expense-tracker-android&theme=dark" width="48%">
 </a>
 
-<br><br>
-
-App version 1
-
-<br><br>
-
-🟠 Java
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
+<br>
 
 <a href="https://github.com/Debjyoti777/Debjyoti777">
-<b>Debjyoti777</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=Debjyoti777&theme=dark" width="48%">
 </a>
-
-<br><br>
-
-Personal GitHub profile and development work.
-
-<br><br>
-
-🔵 GitHub
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-<table width="100%" cellspacing="0" cellpadding="12">
-<tr>
-<td>
 
 <a href="https://github.com/Debjyoti777/yt-dlp">
-<b>yt-dlp</b>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=yt-dlp&theme=dark" width="48%">
 </a>
 
-<br><br>
-
-A feature-rich command-line audio/video downloader.
-
-<br><br>
-
-🔵 Python
-
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-
-</table>
+</div>
