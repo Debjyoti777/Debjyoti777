@@ -197,8 +197,162 @@ which after all, are the only kind of programs there are.”
 
 ---
 
----
+## 📁 Popular repositories
 
----
+<table width="100%" border="0" cellspacing="12" cellpadding="0">
+<tr>
 
-GitHub | **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**<br><br>A feature-rich command-line audio/video downloader.<br><br>🔵 Python |
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/News-Portal-1">
+<b>News-Portal-1</b>
+</a>
+
+<br><br>
+
+A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.
+
+<br><br>
+
+🟡 JavaScript
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/News-Portal-2">
+<b>News-Portal-2</b>
+</a>
+
+<br><br>
+
+Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.
+
+<br><br>
+
+🟡 JavaScript
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/expense-tracker">
+<b>expense-tracker</b>
+</a>
+
+<br><br>
+
+Personal expense tracker web app with Supabase backend, category filtering, and real-time data — live at MySpendTracker.
+
+<br><br>
+
+🟡 JavaScript
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/expense-tracker-android">
+<b>expense-tracker-android</b>
+</a>
+
+<br><br>
+
+App version 1
+
+<br><br>
+
+🟠 Java
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/Debjyoti777">
+<b>Debjyoti777</b>
+</a>
+
+<br><br>
+
+Personal GitHub profile and development work.
+
+<br><br>
+
+🔵 GitHub
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top">
+
+<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<tr>
+<td>
+
+<a href="https://github.com/Debjyoti777/yt-dlp">
+<b>yt-dlp</b>
+</a>
+
+<br><br>
+
+A feature-rich command-line audio/video downloader.
+
+<br><br>
+
+🔵 Python
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
