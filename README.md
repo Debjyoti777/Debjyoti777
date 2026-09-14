@@ -199,12 +199,13 @@ which after all, are the only kind of programs there are.”
 
 ## 📁 Popular repositories
 
-<table width="100%" border="0" cellspacing="12" cellpadding="0">
+<table width="100%" cellspacing="12" cellpadding="0">
+
 <tr>
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -228,7 +229,7 @@ A school news portal built with vanilla HTML, CSS, and JavaScript — my first f
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -256,7 +257,7 @@ Improved version of the school news portal — refined layout, better JavaScript
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -280,7 +281,7 @@ Personal expense tracker web app with Supabase backend, category filtering, and 
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -308,7 +309,7 @@ App version 1
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -332,7 +333,7 @@ Personal GitHub profile and development work.
 
 <td width="50%" valign="top">
 
-<table width="100%" border="1" cellspacing="0" cellpadding="14" style="border-radius:12px;">
+<table width="100%" cellspacing="0" cellpadding="12">
 <tr>
 <td>
 
@@ -355,4 +356,5 @@ A feature-rich command-line audio/video downloader.
 </td>
 
 </tr>
+
 </table>
