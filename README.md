@@ -201,10 +201,4 @@ which after all, are the only kind of programs there are.”
 
 ---
 
-## 📂 Popular repositories
-
-| | |
-|---|---|
-| **[News-Portal-1](https://github.com/Debjyoti777/News-Portal-1)**<br><br>A school news portal built with vanilla HTML, CSS, and JavaScript — my first full web project.<br><br>🟡 JavaScript | **[News-Portal-2](https://github.com/Debjyoti777/News-Portal-2)**<br><br>Improved version of the school news portal — refined layout, better JavaScript structure, and cleaner UI.<br><br>🟡 JavaScript |
-| **[expense-tracker](https://github.com/Debjyoti777/expense-tracker)**<br><br>Personal expense tracker web app with Supabase backend, category filtering, and real-time data.<br><br>🟡 JavaScript | **[expense-tracker-android](https://github.com/Debjyoti777/expense-tracker-android)**<br><br>App version 1<br><br>🟠 Java |
-| **[Waish228](https://github.com/Waish228/Waish228)**<br><br>Personal GitHub profile and development work.<br><br>🔵 GitHub | **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**<br><br>A feature-rich command-line audio/video downloader.<br><br>🔵 Python |
+GitHub | **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**<br><br>A feature-rich command-line audio/video downloader.<br><br>🔵 Python |
