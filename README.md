@@ -161,24 +161,11 @@ Techno International New Town, Kolkata
 <tr>
 <td bgcolor="#161122" align="center">
 
-<br>
-
-<font color="#66F2FF">
-
-<i>“Reliable computations are obtainable from buggy programs,<br>
+💜 <i>“Reliable computations are obtainable from buggy programs,<br>
 which after all, are the only kind of programs there are.”</i>
 
-</font>
-
-<br><br>
-
-<font color="#FF4FA3">
-
+<br>
 <b>— Daniel T. Barry</b>
-
-</font>
-
-<br><br>
 
 </td>
 </tr>
