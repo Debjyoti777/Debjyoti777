@@ -143,16 +143,6 @@ Techno International New Town, Kolkata
 
 ---
 
-## 👁️ Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Debjyoti777&color=blueviolet&style=for-the-badge)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -165,9 +155,24 @@ Techno International New Town, Kolkata
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Debjyoti777&theme=radical&no-frame=true&margin-w=10" />
+<table>
+<tr>
+<td>
+
+> *“The best way to learn programming is to build, break, and build again.”*
+>
+> <div align="right">— Unknown</div>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Debjyoti777&color=blueviolet&style=flat-square)
+
+</div>
