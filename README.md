@@ -145,9 +145,7 @@ Techno International New Town, Kolkata
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Debjyoti777/Debjyoti777/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/Debjyoti777/Debjyoti777/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
