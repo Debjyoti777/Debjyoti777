@@ -161,7 +161,7 @@ Techno International New Town, Kolkata
 <tr>
 <td bgcolor="#141321" align="center">
 
-<font size="5" color="#66F2FF">
+<font size="10" color="#66F2FF">
 <i>“Reliable computations are obtainable from buggy programs,<br>
 which after all, are the only kind of programs there are.”</i>
 </font>
