@@ -140,6 +140,17 @@ Techno International New Town, Kolkata
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Debjyoti777&theme=radical" />
 
 </div>
+
+---
+
+## 👁️ Profile Views
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Debjyoti777&color=blueviolet&style=for-the-badge)
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
