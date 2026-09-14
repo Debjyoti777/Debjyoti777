@@ -155,7 +155,7 @@ Techno International New Town, Kolkata
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Debjyoti777&theme=radical&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=Debjyoti777&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="850"/>
 
 </div>
 
@@ -167,25 +167,24 @@ Techno International New Town, Kolkata
 
 <table>
 <tr>
-<td width="900" bgcolor="#141321">
-
-<br>
+<td bgcolor="#141321" width="850">
 
 <p align="center">
-  <span style="font-size: 24px; color: #66F2FF;">
-    <i>
-      “Reliable computations are obtainable from buggy programs,<br>
-      which after all, are the only kind of programs there are.”
-    </i>
-  </span>
-</p>
-
 <br>
 
+<font color="#66F2FF">
+<b><i>
+“Reliable computations are obtainable from buggy programs,<br>
+which after all, are the only kind of programs there are.”
+</i></b>
+</font>
+
+<br><br>
+
 <p align="right">
-  <span style="font-size: 18px; color: #FF4FA3;">
-    <i>— Daniel T. Barry</i>
-  </span>
+<font color="#FF4FA3">
+<b><i>— Daniel T. Barry</i></b>
+</font>
 </p>
 
 <br>
@@ -202,7 +201,7 @@ Techno International New Town, Kolkata
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Debjyoti777&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Debjyoti777&limit=5&theme=radical&combine_all_yearly_contributions=true" width="850"/>
 
 </div>
 
@@ -211,13 +210,5 @@ Techno International New Town, Kolkata
 <div align="right">
 
 <img src="https://komarev.com/ghpvc/?username=Debjyoti777&label=Profile%20views&color=FF4FA3&style=flat" />
-
-</div>
-
----
-
-<div align="right">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Debjyoti777&color=blueviolet&style=flat-square)
 
 </div>
