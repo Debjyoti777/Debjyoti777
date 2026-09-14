@@ -152,14 +152,13 @@ Techno International New Town, Kolkata
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Debjyoti777&theme=radical&no-frame=true&margin-w=10" />
 
 </div>
 
 ---
 
-<div align="center">
-
-### 💻 Backend → 🌐 Full-Stack → 🚀 Continuous Learning
-
-</div>
