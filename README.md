@@ -155,13 +155,15 @@ Techno International New Town, Kolkata
 
 <div align="center">
 
+## 💬 Random Dev Quote
+
 <table>
 <tr>
 <td>
 
-> *“The best way to learn programming is to build, break, and build again.”*
+> *“Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.”*
 >
-> <div align="right">— Unknown</div>
+> <div align="right">— Daniel T. Barry</div>
 
 </td>
 </tr>
