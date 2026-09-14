@@ -131,9 +131,9 @@ Techno International New Town, Kolkata
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Debjyoti777&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Debjyoti777&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debjyoti777&layout=compact&theme=radical" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Debjyoti777&layout=compact&theme=radical" />
 
 <br><br>
 
