@@ -199,34 +199,4 @@ which after all, are the only kind of programs there are.”
 
 ## 📁 Popular repositories
 
-<div align="center">
 
-<a href="https://github.com/Debjyoti777/News-Portal-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=News-Portal-1&theme=dark" width="48%">
-</a>
-
-<a href="https://github.com/Debjyoti777/News-Portal-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=News-Portal-2&theme=dark" width="48%">
-</a>
-
-<br>
-
-<a href="https://github.com/Debjyoti777/expense-tracker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=expense-tracker&theme=dark" width="48%">
-</a>
-
-<a href="https://github.com/Debjyoti777/expense-tracker-android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=expense-tracker-android&theme=dark" width="48%">
-</a>
-
-<br>
-
-<a href="https://github.com/Debjyoti777/Debjyoti777">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=Debjyoti777&theme=dark" width="48%">
-</a>
-
-<a href="https://github.com/Debjyoti777/yt-dlp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Debjyoti777&repo=yt-dlp&theme=dark" width="48%">
-</a>
-
-</div>
