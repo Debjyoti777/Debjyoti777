@@ -7,6 +7,7 @@
 📅 2022 – 2026 | **CGPA: 7.7/10**
 
 🚀 Building backend applications and RESTful APIs
+
 🌱 Currently learning and expanding my full-stack development skills
 
 📫 **Email:** [djdebjyoti777@gmail.com](mailto:djdebjyoti777@gmail.com)
@@ -173,17 +174,17 @@ Techno International New Town, Kolkata
 <br>
 
 <font color="#66F2FF">
-<b><i>
+<i>
 “Reliable computations are obtainable from buggy programs,<br>
 which after all, are the only kind of programs there are.”
-</i></b>
+</i>
 </font>
 
 <br><br>
 
 <p align="right">
 <font color="#FF4FA3">
-<b><i>— Daniel T. Barry</i></b>
+<i>— Daniel T. Barry</i>
 </font>
 </p>
 
@@ -196,7 +197,4 @@ which after all, are the only kind of programs there are.”
 </div>
 
 ---
-
-## 📁 Popular repositories
-
 
