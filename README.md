@@ -3,8 +3,8 @@
 💻 **Software Developer | Backend Development | Learning Full-Stack**
 
 🎓 B.Tech Graduate in Computer Science and Engineering
-🏫 Techno International New Town, Kolkata
-📅 2022 – 2026 | **CGPA: 7.7/10**
+| Techno International New Town, Kolkata
+| 2022 – 2026 | **CGPA: 7.7/10**
 
 🚀 Building backend applications and RESTful APIs
 
