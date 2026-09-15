@@ -168,7 +168,7 @@ Techno International New Town, Kolkata
 
 <table>
 <tr>
-<td bgcolor="#141321" width="850">
+<td bgcolor="#141321">
 
 <p align="center">
 <br>
