@@ -165,8 +165,6 @@ Techno International New Town, Kolkata
 <i>“Reliable computations are obtainable from buggy programs,<br>
 which after all, are the only kind of programs there are.”</i>
 
-<br>
-
 <p align="right">
 <i>— Daniel T. Barry</i>
 </p>
