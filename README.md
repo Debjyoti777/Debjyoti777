@@ -154,15 +154,7 @@ Techno International New Town, Kolkata
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Debjyoti777&theme=radical&no-frame=true&no-bg=true&margin-w=8" width="850"/>
-
-</div>
-
----
-
-## 💬 Random Dev Quote
+  ## 💬 Popular Dev Quote
 
 <div align="center">
 
@@ -170,25 +162,14 @@ Techno International New Town, Kolkata
 <tr>
 <td bgcolor="#141321">
 
-<p align="center">
+<i>“Reliable computations are obtainable from buggy programs,<br>
+which after all, are the only kind of programs there are.”</i>
+
 <br>
-
-<font color="#66F2FF">
-<i>
-“Reliable computations are obtainable from buggy programs,<br>
-which after all, are the only kind of programs there are.”
-</i>
-</font>
-
-<br><br>
 
 <p align="right">
-<font color="#FF4FA3">
 <i>— Daniel T. Barry</i>
-</font>
 </p>
-
-<br>
 
 </td>
 </tr>
